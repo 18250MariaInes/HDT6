@@ -1,0 +1,6 @@
+﻿Altergeist Pixiel|Monstruo
+"A" Cell Breeding Device|Hechizo
+"A" Cell Incubator|Hechizo
+"A" Cell Recombination Device|Hechizo
+"A" Cell Scatter Burst|Hechizo
+1st Movement Solo|Hechizo
